@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   music. I am thirsty for knowledge and want to create beautiful things!!
   In this blog I aim to follow my passion for programming and other things.
 
-baseurl: "/LinesNDots" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pjshere.github.io" # the base hostname & protocol for your site
 twitter_username:   pjshere
 github_username:    pjshere
