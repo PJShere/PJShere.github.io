@@ -7,18 +7,3 @@ categories: Museum
 Museum of Modern Art. Located in Midtown Manhattan, this contemperory art museum always has good exhibits. I saw the work of Uruguayan artist Joaquin Torres Garcia. It was abstract inspired by Mayan/Inca civilization. <br><br>
 ![Joaquin Torres Garcia]({{ site.baseurl }}/assets/IMG_4849.jpg){:height="700px" width="500px"}
 <br>
-
-{% highlight python %}
-import time
-import subprocess
-i = 0
-while i < 2:
-    try:
-        time.sleep(5)
-        print('Retry #' + i)
-        subprocess.Popen('ls.')
-        i = 3
-    except Exception, e:
-        raise ('Failure')
-        i += 1
-{% endhighlight %}
