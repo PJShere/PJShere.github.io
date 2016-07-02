@@ -11,5 +11,3 @@ Deep invited to a MF Hussain exhibit at the AICON gallery today. In typical Deep
 For the uninitiated MF Hussain was one of India's leading modernist painter.
 
 [MF Hussain](https://en.wikipedia.org/wiki/M._F._Husain)
-
-{% include disqus.html %}
