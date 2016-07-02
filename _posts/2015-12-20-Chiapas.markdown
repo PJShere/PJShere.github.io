@@ -2,7 +2,7 @@
 layout: post
 title:  "Chiapas"
 date:   2015-12-20 22:37:34
-categories: Mexico
+categories: travel
 ---
 <p>To go against the mighty state of Mexico and bring them down to their knees is not something that many can boast off. But the EZLN empowered by a popular nativist anti free trade movement can claim to have achieved this.</p>
 <p>The picturesque town is situated in a valley. Surrounded by mountainous villages famous for growing coffee and cacao. It is hard to believe that an idyllic town like this may have been a seen of a brutal conflict not to long ago.</p>
