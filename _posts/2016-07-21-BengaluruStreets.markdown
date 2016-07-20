@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Walking in Bangalore"
-date:   2015-07-21 21:25:34
+date:   2016-07-21 21:25:34
 categories: Travel
 comments: true
 ---
