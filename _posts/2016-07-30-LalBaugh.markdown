@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "LalBaugh"
+date:   2016-07-30 22:37:34
+categories: Urban
+comments: true
+---
+An Oasis in the urban desert of Bangalore. LalBaugh gives is one of the few places in Bangalore where one can walk in nature and enjoy the clean air. There is a rich array of flora to be found, including a Japanese garden! It also has a 400 year old tree.
+
+<br><br>
+![LalBaugh]({{ site.baseurl }}/assets/IMG_5902.jpg){:height="500px" width="350px"}
