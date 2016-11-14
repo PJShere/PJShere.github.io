@@ -1,6 +1,5 @@
 # Site settings
 title: Lines◊◊††∆∆Dots
-<<<<<<< HEAD
 email: pankajshere@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi welcome to my blog. I like to code, bike in the big city and make
@@ -40,5 +39,4 @@ exclude: ["README.md", "README.html", "_posts/2015-09-08-Usageguide.markdown"]
 
 # Build settings
 highlighter: null
->>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49
 markdown: kramdown
