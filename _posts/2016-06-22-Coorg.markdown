@@ -2,7 +2,7 @@
 layout: post
 title:  "Coorg"
 date:   2016-06-22 22:37:34
-categories: Travel
+categories: travel
 ---
 Coffee and Pork curry are not two things that have much in common but that is what Coorg is known for.
 As you enter this pictorous town nestled in the mountains there is coffee everywhere.
