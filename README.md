@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# PJShere.github.io
-=======
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kronik3r/daktilo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 # Daktilo
@@ -52,4 +49,3 @@ permalink: /categories/an-awesome-category/
 # License
 
 The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)
->>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49

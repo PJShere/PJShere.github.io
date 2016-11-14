@@ -1,23 +1,11 @@
 # Site settings
 title: Lines◊◊††∆∆Dots
-email: pankajshere@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hi welcome to my blog. I like to code, bike in the big city and make
-  music. I am thirsty for knowledge and want to create beautiful things!!
-  In this blog I aim to follow my passion for programming and other things.
-
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pjshere.github.io" # the base hostname & protocol for your site
-twitter_username:   pjshere
-github_username:    pjshere
-
-# Build settings
 description: >
   Welcome, I hope you learn something here. The things I like to do are 
   ride my bike, make music, code and grow plants.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "localhost:4000" # the base hostname & protocol for your site
+url: "pjshere.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Pankaj Shere
