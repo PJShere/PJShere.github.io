@@ -1,10 +1,7 @@
 ---
 layout: page
-title:
-subtitle:
 permalink: /cv/
 ---
-<html>
 <h1>Pankaj Shere</h1>
 <h4>pankajshere@gmail.com</h4>
 <hr>
@@ -54,7 +51,7 @@ permalink: /cv/
      <li>Checkout <a href="https://github.com/pjshere">www.github.com/pshere</a> for my open source projects</li>
     </ul>
     Skills<br>
-    <!--<ul style="list-style-type:none"> -->
+    <ul style="list-style-type:none">
      <li>Languages
         <ul style="list-style-type:none">
             <li>SQL, C, Python, Bash</li>
@@ -63,7 +60,6 @@ permalink: /cv/
         <ul style="list-style-type:none">
             <li>Linux, OS X, Windows.</li>
         </ul>
-    <!-- </ul> -->
+   </ul>
     <div style="padding:10px; text-align:right	; color:red"><a href="/assets/pankajshereresume.pdf" target="_blank"><img src={{ site.baseurl }}"/assets/1446548465_download.png" alt="Download" width="42" height="42"></a></div>
 </body>
-</html>
