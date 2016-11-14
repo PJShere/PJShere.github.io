@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Gemfile.lock
 test/dest
 *.gem
@@ -20,8 +19,6 @@ tmp/*
 /vendor
 /test/source/file_name.txt
 .analysis
-=======
 _site
 .sass-cache
 /_posts/*.markdown~
->>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49
