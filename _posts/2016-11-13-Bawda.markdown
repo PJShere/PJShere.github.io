@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Bawda"
+date:   2016-11-13 19:25:00
+categories: travel
+---
+A trip to the village was just the break we needed. It felt as if were transported to an alternate universe, time had stopped a blanket of greenery engulfed the land. The Western Ghats are full of pristine water falls and rivers during this time of the year.
+
+<br><br>
+![Bawda]({{ site.baseurl }}/assets/IMG_5953.jpg){:height="500px" width="700px"}
+<br>
