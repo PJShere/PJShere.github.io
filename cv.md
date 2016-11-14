@@ -4,6 +4,7 @@ title:
 subtitle:
 permalink: /cv/
 ---
+<html>
 <h1>Pankaj Shere</h1>
 <h4>pankajshere@gmail.com</h4>
 <hr>
@@ -65,3 +66,4 @@ permalink: /cv/
     <!-- </ul> -->
     <div style="padding:10px; text-align:right	; color:red"><a href="/assets/pankajshereresume.pdf" target="_blank"><img src={{ site.baseurl }}"/assets/1446548465_download.png" alt="Download" width="42" height="42"></a></div>
 </body>
+</html>
