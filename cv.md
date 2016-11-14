@@ -46,11 +46,11 @@ permalink: /cv/
 	    <li> MS in Controls Engineering, Idaho State University, Idaho, USA.</li>
     </ul>
     </div>
-    Open source<br>
+    <p>Open source</p>
     <ul style="list-style-type:none">
      <li>Checkout <a href="https://github.com/pjshere">www.github.com/pshere</a> for my open source projects</li>
     </ul>
-    Skills<br>
+    <p>Skills</p>
     <ul style="list-style-type:none">
      <li>Languages
         <ul style="list-style-type:none">
