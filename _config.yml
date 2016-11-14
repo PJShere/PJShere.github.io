@@ -1,5 +1,6 @@
 # Site settings
 title: Lines◊◊††∆∆Dots
+<<<<<<< HEAD
 email: pankajshere@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi welcome to my blog. I like to code, bike in the big city and make
@@ -12,4 +13,32 @@ twitter_username:   pjshere
 github_username:    pjshere
 
 # Build settings
+=======
+description: >
+  Welcome, I hope you learn something here. The things I like to do are 
+  ride my bike, make music, code and grow plants.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "localhost:4000" # the base hostname & protocol for your site
+
+author:
+  fullname: Pankaj Shere
+  #googleplus: https://www.google.com/
+  github: pjshere
+  twitter: pjshere
+  instagram: pjshere
+  disqus: pjshere
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Syntax highlighting
+highlightstyle: ''
+styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
+
+# Handling Reading
+exclude: ["README.md", "README.html", "_posts/2015-09-08-Usageguide.markdown"]
+
+# Build settings
+highlighter: null
+>>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49
 markdown: kramdown

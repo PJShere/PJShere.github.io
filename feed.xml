@@ -1,5 +1,10 @@
 ---
 layout: null
+<<<<<<< HEAD
+=======
+sitemap:
+  exclude: 'yes'
+>>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">

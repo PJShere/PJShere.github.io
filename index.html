@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: default
 ---
 
@@ -21,3 +22,22 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+=======
+layout: page
+title: lines◊◊††∆∆dots
+subtitle: travels for the soul
+sitemap:
+  priority: 0.9
+---
+
+<ul class="list-posts">
+    {% for post in site.posts %}
+        <li class="post-teaser">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <span class="post-teaser__title">{{ post.title }}</span>
+                <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+>>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <header class="site-header">
 
   <div class="wrapper">
@@ -25,3 +26,37 @@
   </div>
 
 </header>
+=======
+<header class="header">
+    <div class="navigation">
+        <a href="/" class="logo">{{ site.title }}</a>
+
+        <ul class="menu">
+            <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+            <li class="menu__entry"><a href="{{ '/music' | prepend: site.baseurl }}">Music</a></li>
+            <li class="menu__entry"><a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a></li>
+            <li class="menu__entry"><a href="{{ '/cv' | prepend: site.baseurl }}">CV</a></li>
+        </ul>
+    </div>
+
+    <ul class="social-links">
+        {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.twitter %}
+            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.instagram %}
+            <a href="https://instagram.com/{{ site.author.instagram }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-instagram"></i>
+            </a>
+        {% endif %}
+    </ul>
+</header>
+>>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49

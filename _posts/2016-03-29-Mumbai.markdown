@@ -2,7 +2,11 @@
 layout: post
 title:  "Mumbai"
 date:   2016-03-28 22:37:34
+<<<<<<< HEAD
 categories: Urban
+=======
+categories: travel
+>>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49
 ---
 Mumbai the city of dreams. Also happens to be my hometown! Always brings back childhood memories for me. I think it is safe to say that 90% of my family lives here! I can get out of the city but can never get it out of me.
 

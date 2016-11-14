@@ -2,7 +2,11 @@
 layout: post
 title:  "MOMA"
 date:   2015-12-06 21:25:34
+<<<<<<< HEAD
 categories: Museum
+=======
+categories: art
+>>>>>>> 4499cb808b8f73da4e267be148e6c27c80244b49
 ---
 Museum of Modern Art. Located in Midtown Manhattan, this contemperory art museum always has good exhibits. I saw the work of Uruguayan artist Joaquin Torres Garcia. It was abstract inspired by Mayan/Inca civilization. <br><br>
 ![Joaquin Torres Garcia]({{ site.baseurl }}/assets/IMG_4849.jpg){:height="700px" width="500px"}
