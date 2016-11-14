@@ -6,7 +6,7 @@ permalink: /cv/
 <h4>pankajshere@gmail.com</h4>
 <hr>
 
-
+<body>
     <link rel="stylesheet" type="text/css" href="/css/cvstyle.css">
     <div class='summary'>I am a Backend engineer specializing in dev-ops and Python. I work with Python, Bash, C, SQL and MongoDB.
         I keep a technical + personal blog at http://pjshere.github.io</div>
