@@ -4,8 +4,8 @@ title:  "Whitney"
 date:   2016-01-13 19:25:00
 categories: art
 ---
-A trip to the village was just the break we needed. It felt as if were transported to an alternate universe, time had stopped a blanket of greenery engulfed the land. The Western Ghats are full of pristine water falls and rivers during this time of the year.
+Got a chance to visit the newly opened Whitney Museum in the "chic" meat-packing district in downtown Manhattan. The museum boasts of a very impressive selection of modern American artists.
 
 <br><br>
-![Whitney]({{ site.baseurl }}/assets/IMG_4127.jpg){:height="500px" width="700px"}
+![Whitney]({{ site.baseurl }}/assets/IMG_4127.jpg){:height="600px" width="400px"}
 <br>
