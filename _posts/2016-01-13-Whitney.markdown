@@ -9,3 +9,4 @@ Got a chance to visit the newly opened Whitney Museum in the "chic" meat-packing
 <br><br>
 ![Whitney]({{ site.baseurl }}/assets/IMG_4127.jpg){:height="800px" width="650px"}
 <br>
+<h4>Charles Demuth - My Egypt (1927)<h4>
