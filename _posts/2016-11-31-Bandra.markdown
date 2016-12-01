@@ -4,9 +4,9 @@ title:  "Bandra"
 date:   2016-11-31 19:25:00
 categories: travel
 ---
-Bandra (the west side) is as close to "Bohemian-chic" as you are going to get in Mumbai. An old fishing village vibe with boutique coffee shops and desinger wear stores were the bollywood gliteratti rubs shoulders with hipsters.
+Bandra (the west side) is as close to "Bohemian-chic" as you are going to get in Mumbai. An old fishing village vibe with boutique coffee shops and desinger wear stores where the bollywood gliteratti rubs shoulders with hipsters.
 It also stands in stark contrast to the east side which is more slumdog millionaire than Bollywood glam, ohh the dichotomy within the city of dreams!!
 
 <br><br>
-![Bandra]({{ site.baseurl }}/assets/IMG_6426.jpg){:height="500px" width="700px"}
+![Bandra]({{ site.baseurl }}/assets/IMG_6426.jpg){:height="600px" width="450px"}
 <br>
