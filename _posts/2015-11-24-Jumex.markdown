@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Jumex"
+date:   2015-11-24 19:25:00
+categories: travel
+---
+Museo Jumex is located in Mexico City in the Miguel Hidalgo Business district. The museum is in an impressive building and boasts a wide collection of contemperorary South and Central American artists.
+
+<br><br>
+![Jumex]({{ site.baseurl }}/assets/IMG_4827.jpg){:height="650px" width="450px"}
+<br>
