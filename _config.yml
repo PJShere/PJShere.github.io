@@ -1,9 +1,8 @@
 # Site settings
 title: Lines◊◊††∆∆Dots
 description: >
-  Welcome, I hope you learn something here. The things I like to do are 
-  ride my bike, make music, code and grow plants.
-
+  Welcome, I hope to share some of my pictures and travel experiences here.
+  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "pjshere.github.io" # the base hostname & protocol for your site
 
