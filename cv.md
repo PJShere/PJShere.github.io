@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 <h1>Pankaj Shere</h1>
-<span style="color:orange;"><h4><a href="mailto:pankajshere@gmail?Subject=Hi">pankajshere@gmail.com</h4></span>
+<h4 style="color:orange;"><a href="mailto:pankajshere@gmail?Subject=Hi">pankajshere@gmail.com</h4>
 <hr>
 
 <body>
