@@ -8,8 +8,7 @@ permalink: /cv/
 
 <body>
     <link rel="stylesheet" type="text/css" href="/css/cvstyle.css">
-    <div class='summary'>I am a Backend engineer specializing in dev-ops and Python. I work with Python, Bash, C, SQL and MongoDB.
-        I keep a technical + personal blog at http://pjshere.github.io</div>
+    <div class='summary'>I am a Backend engineer specializing in dev-ops and Python. I work with Python, Bash, C, SQL and MongoDB. Web Programming with Php and Django. I keep a personal blog at http://pjshere.github.io</div>
     <br>
     <div class='emp'>Employment
         <div class='emp1'>July 2013 to present
