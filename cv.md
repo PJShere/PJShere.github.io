@@ -60,5 +60,5 @@ permalink: /cv/
             <li>Linux, OS X, Windows.</li>
         </ul>
    
-    <div style="padding:10px; text-align:right	; color:red"><a href="/assets/pankajshereresume.pdf" target="_blank"><img src={{ site.baseurl }}"/assets/1446548465_download.png" alt="Download" width="42" height="42"></a></div>
+    <div style="padding:10px; text-align:right	; color:red"><a href="/assets/pankajshereresume.pdf" target="_blank"><img src={{ site.baseurl }}"/assets/1446548465_download.png" alt="Download" width="42" height="42">download the updated resume here</a></div>
 
