@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Munnar"
+date:   2016-12-26 19:25:00
+categories: travel
+---
+Munnar is the Darjiling of Kerala. High up in the Western Ghats it is blessed with a cool climate all around the year, which makes it the only place in South India ideal for growing the tea plant.
+What strikes one the most here is the variety of the bird species and the pristine greenery of the ghats.
+
+<br><br>
+![Munnar]({{ site.baseurl }}/assets/IMG_6824.jpg){:height="620px" width="480px"}
+<br>
