@@ -8,5 +8,5 @@ Munnar is the Darjiling of Kerala. High up in the Western Ghats it is blessed wi
 What strikes one the most here is the variety of the bird species and the pristine greenery of the ghats.
 
 <br><br>
-![Munnar]({{ site.baseurl }}/assets/IMG_6824.jpg){:height="620px" width="480px"}
+![Munnar]({{ site.baseurl }}/assets/IMG_6824.jpg){:height="620px" width="650px"}
 <br>
