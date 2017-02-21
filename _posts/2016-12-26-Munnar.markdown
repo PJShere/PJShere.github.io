@@ -10,7 +10,7 @@ Munnar is the Darjeeling of Kerala. High up in the Western Ghats it is blessed w
 ![Munnar]({{ site.baseurl }}/assets/IMG_6824.jpg){:height="620px" width="650px"}
 <br>
 
-<div id='map' style='width: 750px; height: 400px;'></div>
+<div id='map' style='width: 725px; height: 400px;'></div>
 
 <script>
 var mymap = L.map('map').setView([10.0806913, 77.0466682], 8);

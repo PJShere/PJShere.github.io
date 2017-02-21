@@ -12,7 +12,7 @@ The colonial architecture and the mixture of the Hindu, Muslim, Catholic and Jew
 <br>
 
 
-<div id='map' style='width: 750px; height: 400px;'></div>
+<div id='map' style='width: 725px; height: 400px;'></div>
 
 <script>
 var mymap = L.map('map').setView([9.9651603, 76.2438176], 8);
