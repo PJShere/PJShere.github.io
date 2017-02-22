@@ -10,6 +10,8 @@ The entire area is dotted with beautiful beaches. Although not as commercialised
 ![Gokarna]({{ site.baseurl }}/assets/IMG_5286.jpg){:height="500px" width="700px"}
 <br>
 
+<div id='map' style='width: 725px; height: 400px;'></div>
+
 <script>
 var mymap = L.map('map').setView([14.5445643,74.3114272], 10);
 
