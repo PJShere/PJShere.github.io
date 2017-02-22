@@ -13,3 +13,17 @@ Cardamom and Pepper is also grown in this area. We stayed on a coffee plantation
 ![Coorg]({{ site.baseurl }}/assets/IMG_5822.jpg){:height="500px" width="700px"}
 
 {% include disqus.html %}
+
+<script>
+var mymap = L.map('map').setView([12.4771012,75.7072153], 10);
+
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.outdoors',
+    accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
+}).addTo(mymap);
+
+var marker = L.marker([12.4771012,75.7072153]).addTo(mymap);
+marker.bindPopup("Gokarna");
+</script>
