@@ -13,7 +13,7 @@ The entire area is dotted with beautiful beaches. Although not as commercialised
 <div id='map' style='width: 725px; height: 400px;'></div>
 
 <script>
-var mymap = L.map('map').setView([14.5445643,74.3114272], 10);
+var mymap = L.map('map').setView([14.5445643,74.3114272], 9);
 
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
