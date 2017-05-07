@@ -7,9 +7,9 @@ categories: travel
 <div class="post-sidebar">
     <h3>Places Visited</h3>
     <ul>
-    <li><a href="https://goo.gl/maps/RqNFdu9deW22">Ooty Botanical Garden</a></li>
-    <li><a href="http://tinyurl.com/n78gwer">Ooty Lake</a></li>
-    <li><a href="http://tinyurl.com/mkh2vr8">Bandipur Tiger Reserve</a></li>
+    <li><a href="https://goo.gl/maps/RqNFdu9deW22" target="_blank">Ooty Botanical Garden</a></li>
+    <li><a href="http://tinyurl.com/n78gwer" target="_blank">Ooty Lake</a></li>
+    <li><a href="http://tinyurl.com/mkh2vr8" target="_blank">Bandipur Tiger Reserve</a></li>
     </ul>
 </div>
 Ugadamandalam or as the British called it Ooty is the closest you are going to get to English weather in South India. The cloud covered mountains along with the cool air and occassional showers are a welcome respite from the relentless sun on the deccan plains.

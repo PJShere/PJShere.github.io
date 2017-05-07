@@ -4,6 +4,15 @@ title:  "Kochi Biennale"
 date:   2016-12-21 19:25:00
 categories: travel
 ---
+<div class="post-sidebar">
+    <h3>Places Visited</h3>
+    <ul>
+    <li><a href="https://goo.gl/maps/U6RE43YzyEA2" target="_blank">The Killians Hotel</a></li>
+    <li><a href="https://goo.gl/maps/x4L5Y35mWsS2" target="_blank">Jewish Synagague</a></li>
+    <li><a href="https://goo.gl/maps/E2kUgATJz4m" target="_blank">Aspinwall House</a></li>
+    <li><a href="http://kochimuzirisbiennale.org/" target="_blank">Kochi-Muziris Biennale</a></li>
+    </ul>
+</div>
 I did not know what to expect when we got into Fort Kochi for the annual biennale. Little did I know that I was going to witness the work of some of the best contemporary artists from around the globe, in a setting that matched the art. 
 The colonial architecture and the mixture of the Hindu, Muslim, Catholic and Jewish cultures makes Fort Kochi a very unique place.
 
