@@ -147,6 +147,22 @@ strong {
     font-size: 20px;
 }
 
+.post-sidebar {
+    position: absolute;
+    top: 190px;
+    bottom: 0;
+    left: 20px;
+    width: 180px;
+    color: $cloudy;
+}
+.post-sidebar h3 {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.post-sidebar ul {
+    padding: 0px;
+}
+
 /* =Post teasers */
 
 .list-posts {

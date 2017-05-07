@@ -4,6 +4,14 @@ title:  "Ooty"
 date:   2017-04-21 19:25:00
 categories: travel
 ---
+<div class="post-sidebar">
+    <h3>Places Visited</h3>
+    <ul>
+    <li><a href="https://goo.gl/maps/RqNFdu9deW22">Ooty Botanical Garden</a></li>
+    <li><a href="https://duckduckgo.com">Ooty Lake</a></li>
+    <li><a href="https://duckduckgo.com">Bandipur Tiger Reserve</a></li>
+    </ul>
+</div>
 Ugadamandalam or as the Brithish called it Ooty is as close you are going to get to England in South India. The cloud covered mountains along with the cool air and occassional showers are a welcome respite from the relentless sun on the deccan plains.
 Along with its cool air Ooty also is famous for chocolates and its fine bred horses!
 
