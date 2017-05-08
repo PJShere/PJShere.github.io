@@ -4,6 +4,14 @@ title:  "Munnar"
 date:   2016-12-26 19:25:00
 categories: travel
 ---
+<div class="post-sidebar">
+    <h3>Places Visited</h3>
+    <ul>
+    <li><a href="http://tinyurl.com/mwlzhb6" target="_blank">Tea Museum</a></li>
+    <li><a href="http://tinyurl.com/korhxcr" target="_blank">Aranya Naturals</a></li>
+    <li><a href="https://goo.gl/maps/P9MeBSxrXw72" target="_blank">Aranyaka Resort</a></li>
+    </ul>
+</div>
 Munnar is the Darjeeling of Kerala. High up in the Western Ghats it is blessed with a cool climate all around the year, which makes it the only place in South India ideal for growing the tea plant. What strikes one the most here is the variety of the bird species and the pristine greenery of the ghats.
 
 <br><br>

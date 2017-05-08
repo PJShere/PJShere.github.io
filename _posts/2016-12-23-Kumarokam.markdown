@@ -4,10 +4,18 @@ title:  "Kumarokam"
 date:   2016-12-23 19:25:00
 categories: travel
 ---
-A lush green sleepy village along lake Vembanad, Kumarokam has the aura of a place frozen in time. The place is teeming with birds and fish which seem to thrive in the backwaters and the pristine lake Vembanad. Truly a magical experience!
+<div class="post-sidebar">
+    <h3>Places Visited</h3>
+    <ul>
+    <li><a href="https://goo.gl/maps/wFnf8czoHww" target="_blank">Kumarakom Bird Sanctuary</a></li>
+    <li><a href="http://tinyurl.com/k8munqu" target="_blank">Vembanad Lake</a></li>
+    <li><a href="https://goo.gl/maps/VYiKyJdEpqC2" target="_blank">Tharavadu Heritage Home</a></li>
+    </ul>
+</div>
+A lush green sleepy village along lake Vembanad, Kumarakom has the aura of a place frozen in time. The place is teeming with birds and fish which seem to thrive in the backwaters and the pristine lake Vembanad. Truly a magical experience!
 
 <br><br>
-![Kumarokam]({{ site.baseurl }}/assets/IMG_1093.jpg){:height="500px" width="725px"}
+![Kumarakom]({{ site.baseurl }}/assets/IMG_1093.jpg){:height="500px" width="725px"}
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
