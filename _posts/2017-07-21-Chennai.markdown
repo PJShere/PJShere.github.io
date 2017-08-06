@@ -19,7 +19,10 @@ the great monk of the Advaita Vedanta tradition who brought Hindu philosophy to 
 It was also nice to have some authentic sushi at a tiny non-descript Japanese restaurant in Chennai!!
 
 <br><br>
-![Chennai]({{ site.baseurl }}/assets/IMG_7132.jpg){:height="620px" width="650px"}
+![Chennai Museum]({{ site.baseurl }}/assets/IMG_7269.jpg){:height="620px" width="400px"}
+<br>
+<br>
+![Amethyst Cafe]({{ site.baseurl }}/assets/IMG_7279.jpg){:height="620px" width="500px"}
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
