@@ -24,15 +24,19 @@ Mexico City is steeped in history, food and culture of the Americas. There is no
 <div id='map' style='width: 725px; height: 400px;'></div>
 
 <script>
-var mymap = L.map('map').setView([19.3910038,-99.2837004], 10);
+var lat = 19.434167
+var long = -99.138611
+var placeName = "Mexico City"
+var mymap = L.map('map').setView([lat, long], 10);
+var zoomLevel = 18
 
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
+    maxZoom: zoomLevel,
     id: 'mapbox.outdoors',
     accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
 }).addTo(mymap);
 
-var marker = L.marker([19.4326068,-99.1353936]).addTo(mymap);
-marker.bindPopup("MexicoCity");
+var marker = L.marker([lat, long]).addTo(mymap);
+marker.bindPopup(placeName);
 </script>

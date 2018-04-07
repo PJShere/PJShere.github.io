@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Anuskura"
+date:   2017-09-23 19:25:00
+categories: travel
+---
+<div class="post-sidebar">
+    <h3>Places Visited</h3>
+    <ul>
+    <li><a href="https://goo.gl/maps/ppXwqfZsuTN2" target="_blank">Anuskura Ghat</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Kankavli" target="_blank">Kankavli</a></li>
+    <li><a href="http://www.kokansearch.com/other/english/other_places/napne_waterfall_sindhudurg" target="_blank">Napne Waterfalls</a></li>
+    </ul>
+</div>
+The month of September is a magical time in Konkan(coastal belt along the Arabian Sea). Life is bursting after hibernation in the dry months. Not an inch of earth is barren, it is mountains and greenery as far as the eye can see.
+Water is gushing out of the rocks forming streams which merge into rivers. The sound of flowing water acts as a background score to the scenery.
+
+<br><br>
+![Anuskura Ghat]({{ site.baseurl }}/assets/IMG_7441.jpg){:height="575px" width="855px"}
+![Rice Fields in BhuiBawda]({{ site.baseurl }}/assets/IMG_7506.jpg){:height="575px" width="855px"}
+<br>
+
+<div id='map' style='width: 725px; height: 400px;'></div>
+
+<script>
+var mymap = L.map('map').setView([16.7235, 73.7432], 8);
+
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.outdoors',
+    accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
+}).addTo(mymap);
+
+var marker = L.marker([16.7235, 73.7432]).addTo(mymap);
+marker.bindPopup("Anuskura");
+</script>
