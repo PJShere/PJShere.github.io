@@ -17,7 +17,7 @@ There is a beautiful church located right at the entrance of the village. A shor
 
 <br><br>
 ![Agonda]({{ site.baseurl }}/assets/IMG_7975.jpg){:height="575px" width="855px"}
-![Cabo de Rama]({{ site.baseurl }}/assets/IMG_8109.jpg){:height="575px" width="855px"}
+![Cabo de Rama]({{ site.baseurl }}/assets/IMG_8107.jpg){:height="575px" width="855px"}
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
