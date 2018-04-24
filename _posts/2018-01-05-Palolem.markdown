@@ -1,29 +1,32 @@
 ---
 layout: post
-title:  "Anuskura"
-date:   2017-09-23 19:25:00
+title:  "Palolem"
+date:   2018-01-05 19:25:00
 categories: travel
 ---
 <div class="post-sidebar">
     <h3>Places Visited</h3>
     <ul>
-    <li><a href="https://goo.gl/maps/ppXwqfZsuTN2" target="_blank">Anuskura Ghat</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Kankavli" target="_blank">Kankavli</a></li>
-    <li><a href="http://www.kokansearch.com/other/english/other_places/napne_waterfall_sindhudurg" target="_blank">Napne Waterfalls</a></li>
-    </ul>
+    <li><a href="https://goo.gl/maps/UitS7MtEi4o" target="_blank">Palolem Beach</a></li>
+    <li><a href="https://www.lonelyplanet.com/india/patnem/attractions/patnem-beach/a/poi-sig/1116942/1302135" target="_blank">Patnem Beach</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Cabo_de_Rama" target="_blank">Cabo De Rama Fort</a></li>
+</ul>
 </div>
-The month of September is a magical time in Konkan(coastal belt along the Arabian Sea). Life is bursting after hibernation in the dry months. Not an inch of earth is barren, it is mountains and greenery as far as the eye can see.
-Water is gushing out of the rocks forming streams which merge into rivers. The sound of flowing water acts as a background score to the scenery.
+I cannot think of any other beach in Goa, which is more pictorous than Palolem. Nestled in a coconut grove forest the beach is as perfect as it gets. The Palolem Bay is perfect for swimming and has enough things going on to keep you busy for a few days!!
+
+Patnem beach is located close by and is also an excellent beach with less people.
+
+A side trip to Cabo de Rama, an old fort on the Arabian sea was a perfect day trip. The place has an old world charm along with an active church and cemetary which adds to its spooky aura!
 
 <br><br>
-![Anuskura Ghat]({{ site.baseurl }}/assets/IMG_7441.jpg){:height="575px" width="855px"}
-![Rice Fields in BhuiBawda]({{ site.baseurl }}/assets/IMG_7506.jpg){:height="575px" width="855px"}
+![Cabo De Rama Fort]({{ site.baseurl }}/assets/IMG_7866.jpg){:height="575px" width="855px"}
+![Palolem Beach]({{ site.baseurl }}/assets/IMG_8107.jpg){:height="575px" width="855px"}
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
 
 <script>
-var mymap = L.map('map').setView([16.7235, 73.7432], 8);
+var mymap = L.map('map').setView([15.0099648, 74.0232186], 8);
 
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -32,6 +35,6 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
 }).addTo(mymap);
 
-var marker = L.marker([16.7235, 73.7432]).addTo(mymap);
-marker.bindPopup("Anuskura");
+var marker = L.marker([15.0099648, 74.0232186]).addTo(mymap);
+marker.bindPopup("Palolem");
 </script>
