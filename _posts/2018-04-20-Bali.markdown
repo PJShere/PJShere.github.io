@@ -19,7 +19,7 @@ Apart from being a tropical paradise the culture , the architecture and food is 
 <br><br>
 ![Bali]({{ site.baseurl }}/assets/IMG_8230.jpg){:height="575px" width="855px"}
 ![Bali Palace]({{ site.baseurl }}/assets/Ceremony-13.jpg){:height="575px" width="855px"}
-![Monkey Forest]({{ site.baseurl }}/assets/IMG_8385.jpg){:height="575px" width="855px"}
+![Monkey Forest]({{ site.baseurl }}/assets/IMG_8385.jpg){:height="575px" width="300px"}
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
