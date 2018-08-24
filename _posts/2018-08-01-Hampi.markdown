@@ -18,9 +18,9 @@ The rocky landscape along with the TungaBhadra river flowing through it makes th
 The area was known as Kishkinda during Ramayana (it was the monkey kingdom) and has a history going back to 2000 years.
 
 <br><br>
-![Hampi]({{ site.baseurl }}/assets/IMG_9141.jpg){:height="575px" width="855px"}
+![Hampi]({{ site.baseurl }}/assets/IMG_8976.jpg){:height="575px" width="855px"}
 ![VirupakshaTemple]({{ site.baseurl }}/assets/IMG_8897.jpg){:height="575px" width="855px"}
-![VijayaVittalaTemple]({{ site.baseurl }}/assets/IMG_8835.jpg){:height="575px" width="855px"}
+![VijayaVittalaTemple]({{ site.baseurl }}/assets/IMG_9112.jpg){:height="575px" width="855px"}
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
