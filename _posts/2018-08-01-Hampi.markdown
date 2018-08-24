@@ -19,7 +19,7 @@ The area was known as Kishkinda during Ramayana (it was the monkey kingdom) and 
 
 <br><br>
 ![Hampi]({{ site.baseurl }}/assets/IMG_8976.jpg){:height="575px" width="855px"}
-![VirupakshaTemple]({{ site.baseurl }}/assets/IMG_8897.jpg){:height="575px" width="855px"}
+![VirupakshaTemple]({{ site.baseurl }}/assets/IMG_8897.jpg){:height="575px" width="480px"}
 ![VijayaVittalaTemple]({{ site.baseurl }}/assets/IMG_9112.jpg){:height="575px" width="855px"}
 <br>
 
