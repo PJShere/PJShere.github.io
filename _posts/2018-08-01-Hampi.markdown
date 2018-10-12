@@ -22,7 +22,7 @@ The area was known as Kishkinda during Ramayana (it was the monkey kingdom) and 
 
 <br><br>
 <img class="myImg" src="/assets/IMG_8897.jpg" alt="Veerupaksha Temple" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8976.jpg" alt="Pushkarani Step Well" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8976.jpg" alt="Pushkarani Step Well" width="150" height="150">
 <img class="myImg" src="{{site.url}}/assets/IMG_8999.jpg" alt="Rama Temple" width="150" height="150">
 <img class="myImg" src="{{site.url}}/assets/IMG_8802.jpg" alt="Anegundi Ruins" width="150" height="150">
 <img class="myImg" src="{{site.url}}/assets/IMG_8835.jpg" alt="Vijaya Vittala Temple" width="150" height="150">
