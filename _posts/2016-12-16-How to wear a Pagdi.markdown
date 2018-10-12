@@ -7,7 +7,7 @@ categories: travel
 Spotted in ChicPeth, you can't wear it any better!
 
 <br><br>
-![Pagdi]({{ site.baseurl }}/assets/IMG_5374.jpg){:height="620px" width="480px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>

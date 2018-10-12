@@ -13,28 +13,26 @@ categories: travel
     </ul>
 </div>
 Hampi was the capital of the VijayaNagara Empire which ruled most of South India from the 12th till the 15th century. At its peak it was the second largest city in the world after Beijing.
+
 Its easy to visualize its past glory as one walks through the majestic ruins of what was once a rich and powerful city. The grandeur of the city can still be witnessed amidst the ruins.
+
 The rocky landscape along with the TungaBhadra river flowing through it makes the place even more interesting and the views stunning.
+
 The area was known as Kishkinda during Ramayana (it was the monkey kingdom) and has a history going back to 2000 years.
 
 <br><br>
-![Hampi]({{ site.baseurl }}/assets/IMG_8976.jpg){:height="575px" width="855px"}
-![VirupakshaTemple]({{ site.baseurl }}/assets/IMG_8897.jpg){:height="575px" width="480px"}
-![VijayaVittalaTemple]({{ site.baseurl }}/assets/IMG_9112.jpg){:height="575px" width="855px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_8897.jpg" alt="Veerupaksha Temple" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8976.jpg" alt="Pushkarani Step Well" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8999.jpg" alt="Rama Temple" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8802.jpg" alt="Anegundi Ruins" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8835.jpg" alt="Vijaya Vittala Temple" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_9137.jpg" alt="Hampi Rock Formations" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_9160.jpg" alt="Hanuman Temple View" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_9176.jpg" alt="Hampi Valley" width="150" height="150">
 <br>
 
-<div id='map' style='width: 725px; height: 400px;'></div>
+<div id='mapid' style='width: 700px; height: 400px;'></div>
 
 <script>
-var mymap = L.map('map').setView([15.3331898, 76.4589724], 8);
-
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.outdoors',
-    accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
-}).addTo(mymap);
-
-var marker = L.marker([15.3331898, 76.4589724]).addTo(mymap);
-marker.bindPopup("Hampi");
+makeMap(L, [15.35067, 76.492455], "Hampi", 9); 
 </script>

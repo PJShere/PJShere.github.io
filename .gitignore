@@ -21,4 +21,6 @@ tmp/*
 .analysis
 _site
 .sass-cache
-/_posts/*.markdown~
+_posts_old/
+*.sh
+*.bak

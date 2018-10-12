@@ -17,7 +17,7 @@ I did not know what to expect when we got into Fort Kochi for the annual biennal
 The colonial architecture and the mixture of the Hindu, Muslim, Catholic and Jewish cultures makes Fort Kochi a very unique place.
 
 <br><br>
-![Kochi]({{ site.baseurl }}/assets/IMG_4253.jpg){:height="500px" width="675px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 

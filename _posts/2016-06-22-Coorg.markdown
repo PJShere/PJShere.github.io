@@ -10,7 +10,7 @@ As you enter this pictorous town nestled in the mountains there is coffee everyw
 Cardamom and Pepper is also grown in this area. We stayed on a coffee plantation and brought back a lot of coffee back with us!
 
 <br><br>
-![Coorg]({{ site.baseurl }}/assets/IMG_5822.jpg){:height="500px" width="700px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 
 <div id='map' style='width: 725px; height: 400px;'></div>
 

@@ -13,7 +13,7 @@ categories: travel
 A small hamlet at the foothills of Ooty, Masinagudi is a pretty unglamorous place but for its animals. Located within the Bandipur Tiger Reserve, it was a pleasant surprise to see herds of deer roam freely around. We were also lucky to spot an elephant, a mouse deer and a few civet cats!!
 
 <br><br>
-![Masinagudi]({{ site.baseurl }}/assets/IMG_7172.jpg){:height="620px" width="650px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>

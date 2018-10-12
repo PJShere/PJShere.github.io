@@ -9,4 +9,4 @@ Being a pedestrian in Bengaluru is, to put it bluntly quite hazardous. You are d
 and the road. Infact it is easier to walk on the road, atleast it does not have construction debries!
 
 <br><br>
-![Bengaluru Streets]({{ site.baseurl }}/assets/IMG_5885.jpg){:height="500px" width="700px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">

@@ -16,22 +16,17 @@ The month of September is a magical time in Konkan(coastal belt along the Arabia
 Water is gushing out of the rocks forming streams which merge into rivers. The sound of flowing water acts as a background score to the scenery.
 
 <br><br>
-![Anuskura Ghat]({{ site.baseurl }}/assets/IMG_7441.jpg){:height="575px" width="855px"}
-![Rice Fields in BhuiBawda]({{ site.baseurl }}/assets/IMG_7506.jpg){:height="575px" width="855px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_7424.jpg" alt="Dam Reservoir" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7432.jpg" alt="Road to the Ghat" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7435.jpg" alt="Paddy Fields" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7442.jpg" alt="View from the Ghat" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7457.jpg" alt="Clouds" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7480.jpg" alt="Sun Breaking Through" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7478.jpg" alt="Dry Tree" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_7474.jpg" alt="In the Clouds" width="150" height="150">
 <br>
 
-<div id='map' style='width: 725px; height: 400px;'></div>
-
+<div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
-var mymap = L.map('map').setView([16.7235, 73.7432], 8);
-
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.outdoors',
-    accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
-}).addTo(mymap);
-
-var marker = L.marker([16.7235, 73.7432]).addTo(mymap);
-marker.bindPopup("Anuskura");
+makeMap(L, [16.7582, 73.7956], "Anuskura", 8);
 </script>

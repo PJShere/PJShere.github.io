@@ -7,6 +7,6 @@ categories: art
 Got a chance to visit the newly opened Whitney Museum in the "chic" meat-packing district in downtown Manhattan. The museum boasts of a very impressive selection of modern American artists.
 
 <br><br>
-![Whitney]({{ site.baseurl }}/assets/IMG_4127.jpg){:height="800px" width="650px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 <h4>Charles Demuth - My Egypt (1927)<h4>

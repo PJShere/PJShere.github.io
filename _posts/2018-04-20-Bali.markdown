@@ -17,23 +17,18 @@ Bali is a volacanic island in Indonesia. It is a world apart within a world.
 
 Apart from being a tropical paradise the culture , the architecture and food is what makes Bali special.
 <br><br>
-![Bali]({{ site.baseurl }}/assets/IMG_8230.jpg){:height="575px" width="855px"}
-![Bali Palace]({{ site.baseurl }}/assets/Ceremony-13.jpg){:height="575px" width="855px"}
-![Monkey Forest]({{ site.baseurl }}/assets/IMG_8385.jpg){:height="575px" width="300px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_8205.jpg" alt="Bali Resort" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8215.jpg" alt="Ubud Street" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8224.jpg" alt="Ubud Ganesha" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8229.jpg" alt="Bali Paddy Fields" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8235.jpg" alt="Bali Paddy Fields" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8286.jpg" alt="Ubud Resort" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8330.jpg" alt="Goreng" width="150" height="150">
+<img class="myImg" src="{{site.url}}/assets/IMG_8404.jpg" alt="Go Gajah Temple" width="150" height="150">
 <br>
 
-<div id='map' style='width: 725px; height: 400px;'></div>
-
+<div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
-var mymap = L.map('map').setView([8.5068536, 115.2624778], 8);
-
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.outdoors',
-    accessToken: 'pk.eyJ1IjoiemFwYXRhIiwiYSI6ImNpejQ2NmZrbzA0a3MzM280Zm40MjNlamcifQ.F1fnWKHio8oHmzw59V6qgw'
-}).addTo(mymap);
-
-var marker = L.marker([8.5068536, 115.2624778]).addTo(mymap);
-marker.bindPopup("Ubud");
+makeMap(L, [-8.5068, 115.2624], "Bali", 9);
 </script>
+

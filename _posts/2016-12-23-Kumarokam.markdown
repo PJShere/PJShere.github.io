@@ -15,7 +15,7 @@ categories: travel
 A lush green sleepy village along lake Vembanad, Kumarakom has the aura of a place frozen in time. The place is teeming with birds and fish which seem to thrive in the backwaters and the pristine lake Vembanad. Truly a magical experience!
 
 <br><br>
-![Kumarakom]({{ site.baseurl }}/assets/IMG_1093.jpg){:height="500px" width="725px"}
+<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>
