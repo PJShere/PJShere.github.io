@@ -17,14 +17,14 @@ Bali is a volacanic island in Indonesia. It is a world apart within a world.
 
 Apart from being a tropical paradise the culture , the architecture and food is what makes Bali special.
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_8205.jpg" alt="Bali Resort" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8215.jpg" alt="Ubud Street" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8224.jpg" alt="Ubud Ganesha" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8229.jpg" alt="Bali Paddy Fields" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8235.jpg" alt="Bali Paddy Fields" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8286.jpg" alt="Ubud Resort" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8330.jpg" alt="Goreng" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8404.jpg" alt="Go Gajah Temple" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8205.jpg" alt="Bali Resort" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8215.jpg" alt="Ubud Street" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8224.jpg" alt="Ubud Ganesha" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8229.jpg" alt="Bali Paddy Fields" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8235.jpg" alt="Bali Paddy Fields" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8286.jpg" alt="Ubud Resort" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8330.jpg" alt="Goreng" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8404.jpg" alt="Go Gajah Temple" width="150" height="150">
 <br>
 
 <div id="mapid" style='width: 700px; height: 400px;'></div>

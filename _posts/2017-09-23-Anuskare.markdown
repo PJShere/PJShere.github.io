@@ -16,14 +16,14 @@ The month of September is a magical time in Konkan(coastal belt along the Arabia
 Water is gushing out of the rocks forming streams which merge into rivers. The sound of flowing water acts as a background score to the scenery.
 
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_7424.jpg" alt="Dam Reservoir" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7432.jpg" alt="Road to the Ghat" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7435.jpg" alt="Paddy Fields" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7442.jpg" alt="View from the Ghat" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7457.jpg" alt="Clouds" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7480.jpg" alt="Sun Breaking Through" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7478.jpg" alt="Dry Tree" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7474.jpg" alt="In the Clouds" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7424.jpg" alt="Dam Reservoir" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7432.jpg" alt="Road to the Ghat" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7435.jpg" alt="Paddy Fields" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7442.jpg" alt="View from the Ghat" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7457.jpg" alt="Clouds" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7480.jpg" alt="Sun Breaking Through" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7478.jpg" alt="Dry Tree" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7474.jpg" alt="In the Clouds" width="150" height="150">
 <br>
 
 <div id="mapid" style='width: 700px; height: 400px;'></div>

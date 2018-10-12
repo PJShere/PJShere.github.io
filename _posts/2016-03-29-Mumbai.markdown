@@ -8,7 +8,7 @@ Mumbai the city of dreams. Also happens to be my hometown! Always brings back ch
 
 What is not to love about this city? The maddening fast pace, the indomitable "Mumbaiyya" spirit, the local trains, Mumbai Chaat and the list goes on. Until next time solong!!
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>

@@ -5,5 +5,5 @@ date:   2015-12-06 21:25:34
 categories: art
 ---
 Museum of Modern Art. Located in Midtown Manhattan, this contemperory art museum always has good exhibits. I saw the work of Uruguayan artist Joaquin Torres Garcia. It was abstract inspired by Mayan/Inca civilization. <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>

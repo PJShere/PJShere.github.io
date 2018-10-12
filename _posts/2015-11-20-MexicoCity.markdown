@@ -17,8 +17,8 @@ categories: travel
 Mexico City is steeped in history, food and culture of the Americas. There is no Mexico without it. A Megacity full of life and dreams. Very few places have made a more lasting impression on me, there is never a dull moment in its many squares and alleys!
 
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>

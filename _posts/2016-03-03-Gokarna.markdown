@@ -14,7 +14,7 @@ categories: travel
 Gokarna meaning "Cow Ear" is an idyllic beach village on the Northern Coast of Karnataka. It is a "temple town", known for its Shiva temples.
 The entire area is dotted with beautiful beaches. Although not as commercialised as the ones in Goa, Gokarna can give any beach a run for its money when it comes to charm and its scenic location overlooking a hill.
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>

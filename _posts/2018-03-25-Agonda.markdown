@@ -16,14 +16,14 @@ Located in the South of Goa, the village of Agonda is as Goan as it gets! Its an
 There is a beautiful church located right at the entrance of the village. A short scooter ride away is the fort of Cabo de Rama. The fort has an old church inside. It is quite spooky but has breathtaking views of the beautiful coastline.
 
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_7899.jpg" alt="Agonda Beach" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7975.jpg" alt="Cabo Fort" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8109.jpg" alt="Cab de Rama Fort" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7962.jpg" alt="Agonda Beach" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7925.jpg" alt="Agonda Beach" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7902.jpg" alt="Palolem Beach" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7880.jpg" alt="Neptune Point" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7886.jpg" alt="Palolem Beach" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7899.jpg" alt="Agonda Beach" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7975.jpg" alt="Cabo Fort" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8109.jpg" alt="Cab de Rama Fort" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7962.jpg" alt="Agonda Beach" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7925.jpg" alt="Agonda Beach" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7902.jpg" alt="Palolem Beach" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7880.jpg" alt="Neptune Point" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7886.jpg" alt="Palolem Beach" width="150" height="150">
 <br>
 
 <div id='mapid' style='width: 725px; height: 400px;'></div>

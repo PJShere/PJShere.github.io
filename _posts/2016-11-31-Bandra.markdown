@@ -8,7 +8,7 @@ Bandra (the west side) is as close to "Bohemian-chic" as you are going to get in
 It also stands in stark contrast to the east side which is more slumdog millionaire than Bollywood glam, ohh the dichotomy within the city of dreams!!
 
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_.jpg" alt=" " width="150" height="150">
 <br>
 
 <div id='map' style='width: 725px; height: 400px;'></div>

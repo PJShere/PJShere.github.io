@@ -19,14 +19,14 @@ Patnem beach is located close by and is also an excellent beach with less people
 A side trip to Cabo de Rama, an old fort on the Arabian sea was a perfect day trip. The place has an old world charm along with an active church and cemetary which adds to its spooky aura!
 
 <br><br>
-<img class="myImg" src="{{site.url}}/assets/IMG_7872.jpg" alt="Palolem Beach" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7927.jpg" alt="Agonda Market" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7938.jpg" alt="Palolem" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_7956.jpg" alt="Neptune Point" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8114.jpg" alt="Cabo De Rama Fort" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8094.jpg" alt="Cabo De Rama Fort" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8096.jpg" alt="Cabo De Rama Church" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8116.jpg" alt="Cabo De Rama Village" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7872.jpg" alt="Palolem Beach" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7927.jpg" alt="Agonda Market" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7938.jpg" alt="Palolem" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7956.jpg" alt="Neptune Point" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8114.jpg" alt="Cabo De Rama Fort" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8094.jpg" alt="Cabo De Rama Fort" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8096.jpg" alt="Cabo De Rama Church" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8116.jpg" alt="Cabo De Rama Village" width="150" height="150">
 <div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
 makeMap(L, [15.0092941, 74.0170198], "Palolem Beach", 13);
