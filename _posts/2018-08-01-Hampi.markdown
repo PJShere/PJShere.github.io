@@ -21,14 +21,14 @@ The rocky landscape along with the TungaBhadra river flowing through it makes th
 The area was known as Kishkinda during Ramayana (it was the monkey kingdom) and has a history going back to 2000 years.
 
 <br><br>
-<img class="myImg" src="/assets/IMG_8897.jpg" alt="Veerupaksha Temple" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8897.jpg" alt="Veerupaksha Temple" width="150" height="150">
 <img class="myImg" src="{{site.baseurl}}/assets/IMG_8976.jpg" alt="Pushkarani Step Well" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8999.jpg" alt="Rama Temple" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8802.jpg" alt="Anegundi Ruins" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_8835.jpg" alt="Vijaya Vittala Temple" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_9137.jpg" alt="Hampi Rock Formations" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_9160.jpg" alt="Hanuman Temple View" width="150" height="150">
-<img class="myImg" src="{{site.url}}/assets/IMG_9176.jpg" alt="Hampi Valley" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8999.jpg" alt="Rama Temple" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8802.jpg" alt="Anegundi Ruins" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_8835.jpg" alt="Vijaya Vittala Temple" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9137.jpg" alt="Hampi Rock Formations" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9160.jpg" alt="Hanuman Temple View" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9176.jpg" alt="Hampi Valley" width="150" height="150">
 <br>
 
 <div id='mapid' style='width: 700px; height: 400px;'></div>
