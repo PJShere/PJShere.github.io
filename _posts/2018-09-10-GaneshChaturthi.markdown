@@ -7,8 +7,8 @@ tags:
 <div class="post-sidebar">
 <h3>Places Visited</h3>
 <ul>
-<li><a href="https://www.wikipedia.com/Hampi" target="_blank">LalBagh</a></li>
-<li><a href="https://www.wikipedia.com/Anegundi" target="_blank">Ganesh Galli</a></li>
+<li><a href="https://www.wikipedia.com/Lalbaugcha_Raja" target="_blank">LalBagh</a></li>
+<li><a href="http://www.mumbaicharaja.co/" target="_blank">Ganesh Galli</a></li>
 <li><a href="https://www.wikipedia.com/Kanheri_Caves" target="_blank">Kanheri Caves</a></li>
 <li><a href="https://www.wikipedia.com/Borivali_National_Park" target="_blank">National Park</a></li>
 </ul>
