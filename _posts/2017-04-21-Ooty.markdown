@@ -16,12 +16,11 @@ Ugadamandalam or as the British called it Ooty is the closest you are going to g
 Along with its cool air Ooty also is famous for chocolates and its fine bred horses!
 
 <br><br>
-<img class="myImg" src="{{site.baseurl}}/assets/IMG_7132.jpg" alt=" " width="150" height="150">
-<img class="myImg" src="{{site.baseurl}}/assets/IMG_7172.jpg" alt=" " width="150" height="150">
-<img class="myImg" src="{{site.baseurl}}/assets/IMG_6824.jpg" alt=" " width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7132.jpg" alt="Botanical Garden" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_7172.jpg" alt="Tree House" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_6824.jpg" alt="Ooty Hills" width="150" height="150">
 
 <div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
 makeMap(L, [11.41185,76.6584], "Ooty", 10);
 </script>
-

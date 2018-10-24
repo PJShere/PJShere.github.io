@@ -14,8 +14,23 @@ var main = function() {
 
    var close_span = document.getElementsByClassName("close")[0];
    close_span.onclick = function() {
-   modal.style.display = "none";
-	};
+	   modal.style.display = "none";
+   };
+   
+   modal.onkeydown = function(e) {
+	   if (modal.style.display === "block") {
+	console.log("Todo closing");
+    };
+   };
 };
 
 $(document).ready(main);
+//close modal on escape keydown
+$(document).keydown(function(event) {
+  if (event.keyCode == 27) {
+      var modal = document.getElementById('myModal');
+	  if (modal.style.display === "block") {
+      modal.style.display = "none";
+    }
+  }
+});
