@@ -16,21 +16,17 @@ var main = function() {
    close_span.onclick = function() {
 	   modal.style.display = "none";
    };
-   
-   modal.onkeydown = function(e) {
-	   if (modal.style.display === "block") {
-	console.log("Todo closing");
-    };
-   };
-};
-
-$(document).ready(main);
 //close modal on escape keydown
 $(document).keydown(function(event) {
-  if (event.keyCode == 27) {
+  if (event.key === "Escape") {
       var modal = document.getElementById('myModal');
 	  if (modal.style.display === "block") {
       modal.style.display = "none";
-    }
-  }
-});
+    };
+  };
+});  
+
+}; //close main()
+
+$(document).ready(main);
+
