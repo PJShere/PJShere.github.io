@@ -26,6 +26,10 @@ like a velvet carpet..
 <img class="myImg" src="{{site.baseurl}}/assets/IMG_9593.jpg" alt="Agonda" width="150" height="150">
 <img class="myImg" src="{{site.baseurl}}/assets/IMG_9600.jpg" alt="Patnem" width="150" height="150">
 <img class="myImg" src="{{site.baseurl}}/assets/IMG_9574.jpg" alt="Palolem" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9572.jpg" alt="Palolem" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9579.jpg" alt="Palolem" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9580.jpg" alt="Patnem" width="150" height="150">
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9559.jpg" alt="Agonda" width="150" height="150">
 
 <div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
