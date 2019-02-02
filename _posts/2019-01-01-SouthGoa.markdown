@@ -14,7 +14,7 @@ categories: Travel
 </ul>
 </div>
 
-South Goa.
+South Goa
 
 Connections formed with one another..
 to the earth and water and the sea and trees...
@@ -31,6 +31,6 @@ like a velvet carpet..
 
 <div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
-makeMap(L, [array_lat_long], "PlaceName", zoomLevel);
+makeMap(L, [15.009304, 74.0170198], "CanCona", 10);
 </script>
 
