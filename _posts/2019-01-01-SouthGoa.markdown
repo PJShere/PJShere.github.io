@@ -1,0 +1,36 @@
+---
+layout: post
+title: South Goa
+date: 2019-01-01
+categories: Travel
+---
+
+<div class="post-sidebar">
+<h3>Places Visited</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Palolem" target="_blank">Palolem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Agonda" target="_blank">Agonda</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Patnem" target="_blank">Patnem</a></li>
+</ul>
+</div>
+
+South Goa.
+
+Connections formed with one another..
+to the earth and water and the sea and trees...
+The sound of waves..
+is a sweet melody...
+the sand under the feet..
+like a velvet carpet..
+
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9593.jpg" alt="Agonda" width="150" height="150">
+
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9600.jpg" alt="Patnem" width="150" height="150">
+
+<img class="myImg" src="{{site.baseurl}}/assets/IMG_9574.jpg" alt="Palolem" width="150" height="150">
+
+<div id="mapid" style='width: 700px; height: 400px;'></div>
+<script>
+makeMap(L, [array_lat_long], "PlaceName", zoomLevel);
+</script>
+
