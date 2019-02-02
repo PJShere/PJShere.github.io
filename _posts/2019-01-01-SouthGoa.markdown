@@ -10,7 +10,7 @@ categories: Travel
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Palolem" target="_blank">Palolem</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Agonda" target="_blank">Agonda</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Patnem" target="_blank">Patnem</a></li>
+<li><a href="http://www.goabeachhuts.com/patnem_beach.htm" target="_blank">Patnem</a></li>
 </ul>
 </div>
 
