@@ -8,10 +8,13 @@ permalink: /cv/
 
 <body>
     <link rel="stylesheet" type="text/css" href="/css/cvstyle.css">
-    <div class='summary'>I am a Backend engineer specializing in dev-ops and Python. I work with Python, Bash, C, SQL and MongoDB. Web Programming with Php and Django. I keep a personal blog at https://pjshere.github.io</div>
+    <div class='summary'>I am a Backend engineer specializing in Datbase technologies and web development using Python. I work with Python, Bash, C, SQL and MongoDB. Web Programming with Php and Django. I keep a personal blog at https://pjshere.github.io</div>
     <br>
     <div class='emp'>Employment
-        <div class='emp1'>July 2013 to present
+	<div class='emp1'>Mar 2016 to Present
+	<ul style="list-style-type:none">
+		<li>Freelance Developer working for various clients.
+        <div class='emp1'>July 2013 to Jan 2016 
             <ul style="list-style-type:none">
             	<li> Database Engineer at TMP WorldWide, NewYork, USA</li>
                 <li>- working as a database engineer.</li>
