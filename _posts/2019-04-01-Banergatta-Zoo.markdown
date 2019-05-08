@@ -18,6 +18,7 @@ Definitely worth a visit if you are in Bangalore.
 <img class="myImg" src="{{site.baseurl}}/assets/IMG_9369.jpg" alt="Banergatta Zoo" width="150" height="150">
 <img class="myImg" src="{{site.baseurl}}/assets/IMG_9369.jpg" alt="Banergatta Zoo" width="150" height="150">
 
+<p>Some more change</p>
 <div id="mapid" style='width: 700px; height: 400px;'></div>
 <script>
 makeMap(L, [array_lat_long], "Banergatta Zoo", 10);
